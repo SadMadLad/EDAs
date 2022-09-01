@@ -1,2 +1,2 @@
 # EDAs
-EDA Porjects
+EDA Projects
